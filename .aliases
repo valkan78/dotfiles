@@ -1,3 +1,7 @@
+#dotfiles
+alias aliases="subl ~/.aliases"
+alias exports="subl ~/.exports"
+
 # Easier navigation: .., ..., ~ and -
 alias ..="cd .."
 alias cd..="cd .."
