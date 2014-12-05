@@ -52,7 +52,7 @@ alias c='pygmentize -O style=monokai -f console256 -g'
 alias undopush="git push -f origin HEAD^:master"
 
 alias gs="git status"
-alias gaa="git add -all"
+alias gaa="git add --all"
 alias gcm="git commit -m"
 alias commit="git commit -m"
 alias log="git lg"
