@@ -7,3 +7,5 @@ ln -s ~/dotfiles/.exports .exports
 ln -s ~/dotfiles/.gitattributes .gitattributes
 ln -s ~/dotfiles/.gitignore .gitignore
 ln -s ~/dotfiles/.inputrc .inputrc
+ln -s dotfiles/.my.cnf .my.cnf
+ln -s dotfiles/.grcat .grcat
