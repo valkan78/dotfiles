@@ -92,11 +92,12 @@
 		".hg",
 		"CVS"
 	],
-	"font_face": "",
+	"font_face": "Menlo",
 	"font_options":
 	[
+		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": false,
@@ -120,7 +121,7 @@
 	"line_numbers": true,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
-	"margin": 4,
+	"margin": 15,
 	"match_brackets": true,
 	"match_brackets_angle": false,
 	"match_brackets_braces": true,
@@ -130,9 +131,9 @@
 	"match_tags": true,
 	"move_to_limit_on_up_down": false,
 	"open_files_in_new_window": true,
-	"overlay_scroll_bars": "system",
-	"preview_on_click": true,
-	"remember_full_screen": false,
+	"overlay_scroll_bars": "visible",
+	"preview_on_click": false,
+	"remember_full_screen": true,
 	"remember_open_files": true,
 	"rulers":
 	[
